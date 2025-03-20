@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Dev Diary
 email:
-description: >- A carpenter turned web developer documenting his coding journey—the struggles, wins, and practical lessons learned along the way.
+description: A carpenter turned web developer documenting his coding journey—the struggles, wins, and practical lessons learned along the way.
 github_username: joachimurbain
 minimal_mistakes_skin: default
 search: true
@@ -55,8 +55,8 @@ plugins:
 
 author:
   name   : "Joachim Urbain"
-  avatar : "/assets/images/bio-photo.png"
-  bio    : "Former carpenter turned developer with 5 years of experience in web development."
+  avatar : "/assets/images/bio.png"
+  bio    : "Developer with 5+ years of experience, always learning and building new things."
   links:
 #    - label: "Website"
 #     icon: "fas fa-fw fa-link"
@@ -78,7 +78,7 @@ footer:
 #      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/joachimurbain"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"

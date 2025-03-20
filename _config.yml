@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Joachim Urbain"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Former carpenter turned developer with 5 years of experience in web development."
   links:
 #    - label: "Website"
